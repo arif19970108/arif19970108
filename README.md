@@ -1,7 +1,8 @@
 ## Hi there 👋, I'm Md. Ariful Islam Bhuiyan
 
-**Front-End Enthusiast** | Passionate about Interactive Web Experiences
-
+<p align="center">
+  <strong>Front-End Enthusiast | Passionate about Interactive Web Experiences</strong>
+</p>
 
 🎯 Crafting interactive & dynamic web solutions with JavaScript, CSS, and modern UI frameworks.  
 🌱 Always exploring new trends in front-end development.
@@ -55,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif19970108&theme=dark" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=arif19970108&theme=dark" height="150"/>
 </p>
 
 ---
@@ -75,5 +76,3 @@
 ---
 
 ### 💡 "The only way to do great work is to love what you do." - Steve Jobs
-
-
