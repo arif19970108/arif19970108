@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Md. Ariful Islam Bhuiyan
 
-<p align="center">
-  <strong>Front-End Enthusiast | Passionate about Interactive Web Experiences</strong>
-</p>
+**Front-End Enthusiast** | Passionate about Interactive Web Experiences
+
 
 🎯 Crafting interactive & dynamic web solutions with JavaScript, CSS, and modern UI frameworks.  
 🌱 Always exploring new trends in front-end development.
