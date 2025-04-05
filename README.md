@@ -63,7 +63,7 @@
 
 ---
 ### 📈 My Coding Activity
-- **Contributions**: 500+
+- **Contributions**: 60+
 - **Pull Requests**: 30+
 - **Issues Opened**: 20+
 
