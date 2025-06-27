@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Md. Ariful Islam Bhuiyan
+## Hi there 👋, I'm Md Ariful Islam Bhuiyan
 
 <p align="center">
   <strong>Front-End Enthusiast | Passionate about Interactive Web Experiences</strong>
